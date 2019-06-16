@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.KodiRepository4IPTV" name="[COLOR white][B]Kodi Repository 4 IPTV[/B][/COLOR]" version="1.0.0" provider-name="kuser0411">
+	<extension point="xbmc.addon.repository" name="KodiRepository4IPTV by kuser0411">
+	<info compressed="false">https://github.com/kodirepository/addons_source/addons.xml</info>
+	<checksum>https://github.com/kodirepository/addons_source/addons.xml.md5</checksum>
+	</extension>
+		<extension point="xbmc.addon.metadata">
+		<summary>KodiRepository4IPTV</summary>
+		<description>
+KodiRepository4IPTV by kuser0411 
+source: https://github.com/kuser0411/kodirepository/addons.xml
+		 </description> 
+		<platform>all</platform>
+	</extension>
+</addon>
+
